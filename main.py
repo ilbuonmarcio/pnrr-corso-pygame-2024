@@ -21,7 +21,7 @@ loops = 1
 radius = 5
 
 background_img = pygame.image.load("background.jpg")
-player_img = pygame.image.load("player.jpg")
+player_img = pygame.image.load("player.png")
 enemy_img = pygame.image.load("enemy.png")
 apple_img = pygame.image.load("apple.png")
 arrow_img = pygame.image.load("arrow.png")
